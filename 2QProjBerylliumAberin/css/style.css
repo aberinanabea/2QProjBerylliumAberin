@@ -1,0 +1,154 @@
+		body {
+			background-color: #f2f2f2;
+			font-family: Serif, Cursive, San-serif;
+		}
+
+		h1 {
+			color: #BAA378;
+			font-family: Serif, Cursive, San-serif;
+			padding: 20px 20px 0 20px;
+		}
+		
+		h2{
+			color: #BAA378;
+			font-family: Serif, Cursive, San-serif;
+		}
+		
+		#search-container {
+			float: right;
+			padding: 6px 10px;
+			margin-top: 8px;
+			margin-right: 16px;
+			background:#f2f2f2;
+			font-size: 17px;
+			border: none;
+			cursor: pointer;
+		}
+		
+		a {
+			margin: 10px;
+			text-decoration: none;
+			background-color:#e6e6e6;
+		}
+		
+		a:link {
+			color: white;
+			background-color: #e6e6e6;
+		}
+		
+		a:visited {
+			color: white;
+			background-color: #e6e6e6;
+		}
+
+		a:hover {
+			color: white;
+			background-color:  #808080;
+		}
+
+		a:active {
+			color: black;
+			background-color: white;
+		}
+		
+		
+		.content{
+			padding: 20px 20px 0 20px;
+		}
+		
+		.sprite1 {
+			background: url('../images/icon.png') no-repeat -182px -91px;
+			width: 33px;
+			height: 32px;
+		}
+		
+		.sprite1:hover {
+			background: url('../images/icon.png') no-repeat -182px -17px;
+			width: 33px;
+			height: 32px;
+		}
+		
+		.sprite1:active {
+			background: url('../images/icon.png') no-repeat -182px -91px;
+			width: 33px;
+			height: 32px;
+		}
+		
+		.sprite2 {
+			background: url('../images/icon.png') no-repeat -296px -91px;
+			width: 33px;
+			height: 33px;
+		}
+		
+		.sprite2:hover {
+			background: url('../images/icon.png') no-repeat -296px -16px;
+			width: 33px;
+			height: 33px;
+		}
+		
+		.sprite2:active {
+			background: url('../images/icon.png') no-repeat -296px -91px;
+			width: 33px;
+			height: 33px;
+		}
+		
+		.sprite3 {
+			background: url('../images/icon.png') no-repeat -125px -91px;
+			width: 33px;
+			height: 32px;
+		}
+		
+		.sprite3:hover {
+			background: url('../images/icon.png') no-repeat -125px -17px;
+			width: 33px;
+			height: 32px;
+		}
+		
+		.sprite3:active {
+			background: url('../images/icon.png') no-repeat -125px -91px;
+			width: 33px;
+			height: 32px;
+		}
+		
+		
+		#icon{
+			float: right;
+			display: block;
+		}
+		
+		#footer{ 
+			background-color: #86847B;
+			color:#E6E2DA;
+			font-size: 100%;
+			text-align: center;
+			padding: 10px;
+		}
+		
+		#nav ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;	
+		}
+	
+		#nav li{
+			display: inline;
+			font-family: Serif, Cursive, San-serif;
+			padding: 20px 20px 0 20px;
+			font-size: 20px;
+		}
+		
+		#nav ol {
+			display: inline;
+			font-family: Serif, Cursive, San-serif;
+			padding-bottom: 20px;
+			font-size: 30px;
+		}
+		
+		#nav a{
+			color: #ccba99;
+			padding-right: 50px;
+			text-decoration: none;
+		}
+		
+
+		
